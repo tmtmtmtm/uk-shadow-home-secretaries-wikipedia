@@ -1,17 +1,22 @@
 [
   {
     "item": {
-      "value": "Q153454",
-      "label": "Diane Abbott"
+      "value": "Q6390855",
+      "label": "Kenneth Younger"
     },
-    "statement": "Q153454$558b95b4-4ce8-d5a4-07fa-396f8d267a00"
-  },
-  {
-    "item": {
-      "value": "Q336534",
-      "label": "Merlyn Rees"
+    "replacedBy": {
+      "value": "Q333745",
+      "label": "Patrick Gordon Walker"
     },
-    "statement": "Q336534$E73FB4DF-99AB-49CC-8093-7B9AF38D4A19"
+    "start": {
+      "value": "1955-12-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1957-05-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6390855$190C62E7-0DA3-455B-AE53-775A28438B6F"
   },
   {
     "item": {
@@ -58,6 +63,75 @@
       "precision": "11"
     },
     "statement": "Q334073$97B05708-3AC6-4240-9F81-D7ECF2336336"
+  },
+  {
+    "item": {
+      "value": "Q333387",
+      "label": "Frank Soskice, Baron Stow Hill"
+    },
+    "replaces": {
+      "value": "Q334073",
+      "label": "George Brown, Baron George-Brown"
+    },
+    "replacedBy": {
+      "value": "Q5341978",
+      "label": "Edward Boyle, Baron Boyle of Handsworth"
+    },
+    "start": {
+      "value": "1963-02-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1964-10-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333387$0D707714-7BCA-4A0A-9FD3-64EC5AD6391D"
+  },
+  {
+    "item": {
+      "value": "Q5341978",
+      "label": "Edward Boyle, Baron Boyle of Handsworth"
+    },
+    "replaces": {
+      "value": "Q333387",
+      "label": "Frank Soskice, Baron Stow Hill"
+    },
+    "replacedBy": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "start": {
+      "value": "1964-10-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1965-08-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5341978$51AC82C0-7C64-4C12-96DE-702886A8D8FE"
+  },
+  {
+    "item": {
+      "value": "Q334282",
+      "label": "Peter Thorneycroft, Baron Thorneycroft"
+    },
+    "replaces": {
+      "value": "Q5341978",
+      "label": "Edward Boyle, Baron Boyle of Handsworth"
+    },
+    "replacedBy": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "start": {
+      "value": "1965-08-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1966-04-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334282$BA0D19F3-A138-4AC9-89BA-04F995EC6EEA"
   },
   {
     "item": {
@@ -245,8 +319,62 @@
   },
   {
     "item": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "replaces": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "replacedBy": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-11-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336534$E73FB4DF-99AB-49CC-8093-7B9AF38D4A19"
+  },
+  {
+    "item": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
+    },
+    "replaces": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "replacedBy": {
       "value": "Q750345",
       "label": "Gerald Kaufman"
+    },
+    "start": {
+      "value": "1980-11-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333692$A756BC91-52FA-49BF-9ECE-9830DCD092A6"
+  },
+  {
+    "item": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "replaces": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
+    },
+    "replacedBy": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
     },
     "start": {
       "value": "1983-10-31T00:00:00Z",
@@ -286,8 +414,20 @@
       "value": "Q9545",
       "label": "Tony Blair"
     },
+    "replaces": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
+    },
+    "replacedBy": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
     "start": {
       "value": "1992-07-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
       "precision": "11"
     },
     "statement": "q9545$4647EFF3-4B7D-4956-8055-5FF43FECADF0"
@@ -590,5 +730,43 @@
       "precision": "11"
     },
     "statement": "Q269909$19A3F8D9-BDAC-4747-B4A1-45A5B0A08C18"
+  },
+  {
+    "item": {
+      "value": "Q153454",
+      "label": "Diane Abbott"
+    },
+    "replaces": {
+      "value": "Q269909",
+      "label": "Andy Burnham"
+    },
+    "replacedBy": {
+      "value": "Q20648913",
+      "label": "Nick Thomas-Symonds"
+    },
+    "start": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q153454$558b95b4-4ce8-d5a4-07fa-396f8d267a00"
+  },
+  {
+    "item": {
+      "value": "Q20648913",
+      "label": "Nick Thomas-Symonds"
+    },
+    "replaces": {
+      "value": "Q153454",
+      "label": "Diane Abbott"
+    },
+    "start": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q20648913$50D351E2-872F-4BCF-AADF-3B33D926748A"
   }
 ]
